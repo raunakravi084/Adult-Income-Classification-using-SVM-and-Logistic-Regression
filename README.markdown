@@ -24,10 +24,6 @@ To run the notebook, you need the following Python libraries:
 - matplotlib
 - scikit-learn
 
-You can install the dependencies using pip:
-```bash
-pip install pandas numpy seaborn matplotlib scikit-learn
-```
 
 ## Installation
 1. Clone the repository:
@@ -80,19 +76,9 @@ pip install pandas numpy seaborn matplotlib scikit-learn
 - Visualizations such as bar plots and ROC curves are provided to assess model performance.
 - No missing values were found in the dataset, simplifying preprocessing.
 
-## Future Improvements
-- Experiment with additional models (e.g., Random Forest, XGBoost).
-- Handle imbalanced classes using techniques like SMOTE.
-- Incorporate feature selection to reduce dimensionality.
-- Add cross-validation for more robust model evaluation.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 - UCI Machine Learning Repository for providing the dataset.
 - Scikit-learn documentation for model implementation guidance.
 - Kaggle community for insights and discussions.
-
-## Contact
-For questions or feedback, feel free to reach out via [GitHub Issues](https://github.com/your-username/adult-income-classification/issues) or email at your-email@example.com.
